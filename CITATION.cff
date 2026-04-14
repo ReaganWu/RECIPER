@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: RECIPER
+message: "If you use this repository, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: Wu
+    given-names: Zhuoyu
+  - family-names: Ou
+    given-names: Wenhui
+  - family-names: Tan
+    given-names: Pei-Sze
+  - family-names: Fang
+    given-names: Wenqi
+  - family-names: Rajanala
+    given-names: Sailaja
+  - family-names: Phan
+    given-names: Raphaël C.-W.
+repository-code: https://github.com/ReaganWu/RECIPER
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Wu
+      given-names: Zhuoyu
+    - family-names: Ou
+      given-names: Wenhui
+    - family-names: Tan
+      given-names: Pei-Sze
+    - family-names: Fang
+      given-names: Wenqi
+    - family-names: Rajanala
+      given-names: Sailaja
+    - family-names: Phan
+      given-names: Raphaël C.-W.
+  title: "RECIPER: A Dual-View Retrieval Pipeline for Procedure-Oriented Materials Question Answering"
+  journal: arXiv
+  year: 2026
+  doi: 10.48550/arXiv.2604.11229
+  url: https://arxiv.org/abs/2604.11229
