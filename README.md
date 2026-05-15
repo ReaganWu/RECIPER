@@ -34,6 +34,12 @@ RECIPER is a retrieval pipeline for procedure-oriented materials question answer
 
 The public release keeps the code path small and readable while preserving the main paper-facing artifacts: the RAG corpus, the QA dataset, dense retrieval backbones, and a minimal dual-view RECIPER retriever.
 
+## Architecture
+
+<p align="center">
+  <img src="ICASSP_27_RecipeRAG.png" width="100%">
+</p>
+
 ## Highlights
 
 - Dual-view retrieval over paragraph and recipe streams
